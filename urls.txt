@@ -1,0 +1,10 @@
+https://towardsdatascience.com/lessons-learned-after-8-years-of-machine-learning/
+https://medium.com/@shreyan_d/the-rise-of-ai-agents-and-the-future-of-work-193409181177
+https://medium.com/towards-data-science/a-gentle-introduction-to-graph-neural-networks-with-pytorch-geometric-424050212705
+https://medium.com/swlh/the-ultimate-guide-to-web-scraping-with-python-and-beautiful-soup-311899120138
+https://medium.com/better-programming/10-python-one-liners-that-will-blow-your-mind-331885449969
+https://towardsdatascience.com/data-science-in-5-minutes-a-beginners-guide-to-data-science-2019-32219958197
+https://medium.com/towards-data-science/a-complete-guide-to-data-cleaning-and-preprocessing-for-machine-learning-d8438133e42
+https://medium.com/towards-data-science/the-5-best-data-science-projects-to-boost-your-portfolio-2021-edition-8d9e0f3e3a1
+https://medium.com/swlh/the-future-of-ai-is-not-what-you-think-it-is-213456789012
+https://medium.com/towards-data-science/how-to-build-a-data-science-portfolio-that-gets-you-hired-123456789012
